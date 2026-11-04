@@ -17,7 +17,7 @@ My research interests span **orbit determination (OD), uncertainty quantificatio
 ## 𓍢🌷͙֒   Previous Projects
 
 ### 🧬 Machine Learning for Biosignature Detection - Imperial College London
-Developed `mlbiosig`, an interpretable ML framework for distinguishing between biological and non-biological chemical samples in icy ocean world environments. 
+Developed `mlbiosig`, an interpretable ML framework for distinguishing between biological and non-biological py-GC-MS chemical samples in icy ocean world environments, in support of NASA's Europa Clipper-MASPEX instrument. 
 
 [![mlbiosig](https://img.shields.io/badge/GitHub-MLBioSig-FF1493?style=flat-square&logo=github)](https://github.com/ese-ada-lovelace-2025/irp-gmr24)
 
@@ -26,7 +26,7 @@ Developed `mlbiosig`, an interpretable ML framework for distinguishing between b
 **Research interests:** Machine learning · Explainable AI · SHAP · Astrobiology · Biosignature detection
 
 ### 📡 Characterising LEO Satellite Interference - University of Cambridge
-Developed `astrotrack`, a Python software package for characterising Low Earth Orbit satellite interference in radio astronomy observations, using standard SGP4 propagation and satellite orbital data. 
+Developed `astrotrack`, a Python package for characterising LEO satellite interference in radio observations using TLE/SGP4 propagation and site geometry, in support of the Cambridge-led REACH experiment in South Africa. 
 
 [![astrotrack](https://img.shields.io/badge/GitHub-AstroTrack-FF1493?style=flat-square&logo=github)](https://github.com/Gabriella8080/AstroTrack)
 
