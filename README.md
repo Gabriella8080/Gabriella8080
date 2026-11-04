@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriella!˚.⋆🛰️🪐🛸⋆⭒
+# Hi there, I'm Gabriella! ⋆✴︎🛰️˚｡⋆
 
 <div align="center">
 
