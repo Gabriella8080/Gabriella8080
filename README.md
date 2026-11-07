@@ -8,13 +8,13 @@
 
 </div>
 
-## ˚⊱ About Me ⊰˚ 
+## About Me 
 
 I am an **Aeronautics PhD student** at Imperial College London, part of the **Computational Astrodynamics (COAST) group**. My research focuses on autonomous sensing and tracking of Low Earth Orbit (LEO) satellites under severe uncertainty 🛰️.
 
 My research interests span **orbit determination (OD), uncertainty quantification (UQ), machine learning (ML), and space exploration**. I am particularly interested in developing computational frameworks that solve challenging scientific and engineering problems.
 
-## ˚⊱ Previous Projects ⊰˚ 
+## Previous Projects 
 
 ### 🧬 Machine Learning for Biosignature Detection - Imperial College London
 Developed `mlbiosig`, an interpretable ML framework for distinguishing between biological and non-biological py-GC-MS chemical samples in icy ocean world environments, in support of NASA's Europa Clipper-MASPEX instrument. 
@@ -35,7 +35,7 @@ Astronomy. RAS Techniques & Instruments (in preparation).*
 
 **Research interests:** Satellite tracking · Radio astronomy · Radio-frequency interference · Orbital mechanics
 
-## ˚⊱ Contact ⊰˚ 
+## Contact 
 
 I would love to connect with researchers and industry experts working in the field, so feel free to reach out!
 
