@@ -12,7 +12,7 @@
 
 I am an **Aeronautics PhD student** at Imperial College London, part of the **Computational Astrodynamics (COAST) group**. My research focuses on autonomous sensing and tracking of Low Earth Orbit (LEO) satellites under severe uncertainty 🛰️.
 
-My research interests span **orbit determination (OD), uncertainty quantification (UQ), machine learning (ML), and space exploration**. I am particularly interested in developing approaches, pipelines, and frameworks that solve challenging scientific and engineering problems.
+My research interests span **orbit determination (OD), uncertainty quantification (UQ), machine learning (ML), and space exploration**. I am particularly interested in developing computational frameworks that solve challenging scientific and engineering problems.
 
 ## ˚⊱ Previous Projects ⊰˚ 
 
